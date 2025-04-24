@@ -1,0 +1,3 @@
+Dataset from kaggle -->
+E-Commerce (Target) Sales Dataset:
+LINK:https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
